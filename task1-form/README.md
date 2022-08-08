@@ -3,5 +3,5 @@
 
 ## Form
 
--User fill the form
--Data will be saved in database
+- User fill the form
+- Data will be saved in database
